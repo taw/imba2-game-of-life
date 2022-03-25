@@ -1,0 +1,2 @@
+/* styles:app/client.imba */
+.eg-af:not(#_):not(#_):not(#_){left:var(--eg_ag);top:var(--eg_ah)}.eg-ai{position:absolute;width:18px;height:18px}.dead.eg-ai{background-color:#864}.alive.eg-ai{background-color:#3f3}cell-tag{display:block}header.eg_ar:not(#_){font-size:64px;text-align:center}.board.eg_ar:not(#_){position:relative;height:600px;width:600px;background-color:#aaa;margin:auto}.buttons.eg_ar:not(#_){text-align:center}button.eg_ar:not(#_){margin:.5em}app-tag{display:block}/* chunk:end */
